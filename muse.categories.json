@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "667ce07253b5fab667148084"
+  },
+  "name": "Dinner set",
+  "description": "All types of dinner sets including ceramic and terracote",
+  "Status": true,
+  "__v": 0,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "667ce4a2bb7ed28875201f4e"
+  },
+  "name": "Tablewares",
+  "description": "Tablewares includes cutlery, drinkware etc",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cecaf2ee38eae0ec20750"
+  },
+  "name": "Home Decor",
+  "description": "home decor items",
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cedd918a6a8ce834d4f25"
+  },
+  "name": "Tea Set",
+  "description": "All types of cups life tea cup set , large mugs etc",
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cf5dbae63953fe77bb7eb"
+  },
+  "name": "Plates",
+  "description": "description about plates",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e46cf2b2db45229411ff9"
+  },
+  "name": "Bowls",
+  "description": "All types of bowls",
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66837a218dc2cfc83a11c9c8"
+  },
+  "name": "Candle holder",
+  "description": "candle holders",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687817b281d66db3d0a18ba"
+  },
+  "name": "Glass",
+  "description": "description",
+  "status": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b7e01d8d4e8f002c99466"
+  },
+  "name": "Vases",
+  "description": "vases for home decor ",
+  "status": false,
+  "__v": 0
+}]

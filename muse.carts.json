@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "669606b9e99bd3840baa3864"
+  },
+  "userId": {
+    "$oid": "668775c246ea2c8c4dbba936"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6684dab32fef478865736c5c"
+      },
+      "price": 15,
+      "quantity": 3,
+      "_id": {
+        "$oid": "669606b9e99bd3840baa3865"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6693f0614d6bb88e85c7f843"
+      },
+      "price": 12,
+      "quantity": 1,
+      "_id": {
+        "$oid": "66976c824daffd9adfba5500"
+      }
+    }
+  ],
+  "totalPrice": 57,
+  "totalQuantity": 4,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66b9ae2d1bb0dc1f0264a6f5"
+  },
+  "userId": {
+    "$oid": "667a8b3d8d6fece2978844ab"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "668f7364efbd5744e1f41af3"
+      },
+      "price": 450,
+      "quantity": 4,
+      "_id": {
+        "$oid": "66b9ae2d1bb0dc1f0264a6f6"
+      }
+    }
+  ],
+  "totalPrice": 1800,
+  "totalQuantity": 4,
+  "couponDiscount": 0,
+  "shippingTotal": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9af4c119ae903613f9a42"
+  },
+  "userId": {
+    "$oid": "667a8bcd8d6fece2978844ba"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "668f7155efbd5744e1f41a95"
+      },
+      "price": 2100,
+      "quantity": 1,
+      "_id": {
+        "$oid": "66b9b162119ae903613f9ac9"
+      }
+    }
+  ],
+  "totalPrice": 2100,
+  "totalQuantity": 1,
+  "couponDiscount": 100,
+  "shippingTotal": 2000,
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "66b9b195119ae903613f9b2c"
+  },
+  "userId": {
+    "$oid": "667a8b9e8d6fece2978844b5"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "668f7155efbd5744e1f41a95"
+      },
+      "price": 2100,
+      "quantity": 1,
+      "_id": {
+        "$oid": "66b9b195119ae903613f9b2d"
+      }
+    }
+  ],
+  "totalPrice": 2100,
+  "totalQuantity": 1,
+  "couponDiscount": 50,
+  "shippingTotal": 2050,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6e56cd66138801a476cb7"
+  },
+  "userId": {
+    "$oid": "66c6bfa59227bd0b5a4ad1fd"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "668f7155efbd5744e1f41a95"
+      },
+      "price": 1890,
+      "quantity": 1,
+      "_id": {
+        "$oid": "66c6e56cd66138801a476cb8"
+      }
+    }
+  ],
+  "totalPrice": 1890,
+  "totalQuantity": 1,
+  "couponDiscount": 0,
+  "shippingTotal": 1890,
+  "__v": 0
+}]

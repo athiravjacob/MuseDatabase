@@ -1,0 +1,477 @@
+[{
+  "_id": {
+    "$oid": "668f7155efbd5744e1f41a95"
+  },
+  "name": "Eden's Bloom Floral Ceramic Tea Set of 3 pcs",
+  "description": "A lovely blend of creative craftsmanship and the ethereal beauty of botanical flowers is our enchanting Eden's Bloom Teaset.Whether you're hosting a gathering or enjoying a quiet moment alone, this teaset adds a touch of sophistication and a dash of natural wonder to any setting. The delicate hues and exquisite designs inspire the peace of a flowering garden, adding a sensory dimension to your morning cup of tea. With each pour, lose yourself in the poetry of nature , savouring the beauty and elegance that never fades.\n\nSet of 3\n5.5\" Tea pot- 1\n4\" Milk pot- 1\n4\" Sugar pot- 1",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667cedd918a6a8ce834d4f25"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 9,
+  "images": [
+    "uploads\\1720772435933-Teaset_1_1800x1800.webp",
+    "uploads\\1720772435935-Teaset_3_1800x1800.webp",
+    "uploads\\1720772435936-Teaset_4_1800x1800.webp",
+    "uploads\\1720772448217-Teaset_4_1800x1800.webp"
+  ],
+  "status": true,
+  "__v": 1,
+  "originalPrice": 2100,
+  "isDiscounted": true,
+  "offerId": {
+    "$oid": "66c478b5e75edc1faa4befed"
+  },
+  "offerPercentage": 10,
+  "offerPrice": 1890
+},
+{
+  "_id": {
+    "$oid": "668f7364efbd5744e1f41af3"
+  },
+  "name": "Hand-painted Ceramic Bird Serving Bowl",
+  "description": "This stylish and artistic bird print serving bowl will add a very eloquent artistic touch to your tableware collection. These bowls can be used for anything from serving snacks or having dessert to decorating with flowers or even just as table pieces to light up your place.\n\nHand made\nLead-Free\nDish wash Safe\nScratch-resistant\nMicrowave safe",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 8,
+  "images": [
+    "uploads/1720677220625-cropped_image.jpg",
+    "uploads/1720677220626-cropped_image.jpg",
+    "uploads/1720677220628-cropped_image.jpg"
+  ],
+  "status": true,
+  "__v": 0,
+  "originalPrice": 450,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "offerPercentage": 12,
+  "offerPrice": 396
+},
+{
+  "_id": {
+    "$oid": "668f7486efbd5744e1f41aff"
+  },
+  "name": "Amalfiee Terracotta Handmade Small Sheep Family Sculpture Set of 7",
+  "description": "These adorably small and handmade sheep sculpture showpieces will complete the décor stylishly. Bring home the traditionality and creativity of Indian artisans through these authentically handcrafted terracotta clay pieces. Set of 2.",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "material": "Terracotta",
+  "quantity": 0,
+  "images": [
+    "uploads\\1720766889126-Amalfiee-Handmade-Terracotta-Large-and-Small-Sheep-Sculpture-Set-of-3-Amalfiee_Ceramics-1678918486_1800x1800.webp",
+    "uploads\\1720766889131-Amalfiee-Handmade-Terracotta-Large-and-Small-Sheep-Sculpture-Set-of-3-Amalfiee_Ceramics-1678918488_1800x1800.webp",
+    "uploads\\1720766889131-Amalfiee-Handmade-Terracotta-Large-and-Small-Sheep-Sculpture-Set-of-3-Amalfiee_Ceramics-1678918491_1800x1800.webp"
+  ],
+  "status": true,
+  "__v": 2,
+  "originalPrice": 500,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "offerPercentage": 20,
+  "offerPrice": 400
+},
+{
+  "_id": {
+    "$oid": "668f75daefbd5744e1f41b2c"
+  },
+  "name": "Man Holding Artistic Sculpture Décor",
+  "description": "For all art lovers out there, we bring this beautifully handcrafted décor sculpture. Made entirely from terracotta this artistic piece will enhance the aesthetics of your corner giving that modern décor vibe. Handmade with precision this crafty piece depicts motherly bond and care through it. Handmade with precision this crafty piece depicts togetherness and bonding through it.",
+  "brand": "Black Swan",
+  "category": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 87,
+  "images": [
+    "uploads/1720677850004-cropped_image.jpg",
+    "uploads\\1720767053700-Man-Holding-Artistic-Sculpture-Decor-Amalfiee_Ceramics-1678925279_1800x1800.webp",
+    "uploads\\1720767053702-Man-Holding-Artistic-Sculpture-Decor-Amalfiee_Ceramics-1678925282_1800x1800.webp"
+  ],
+  "status": true,
+  "__v": 1,
+  "originalPrice": 345,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "offerPercentage": 20,
+  "offerPrice": 276
+},
+{
+  "_id": {
+    "$oid": "6690eef25be435c4442907fe"
+  },
+  "name": "Mehran 15pc Ceramic Tea Set",
+  "description": "Taking inspiration from the luscious feature of the blue macaw, we tried to indulge its vivacious and elegant feel and inculcate it with the Arabic theme in this collection. The colors and texture of this collection will take you back to the woods, with shapes resembling the natural aesthetic. Accessories you're dining with this astonishing collection and enhance the elegance of your evening with these opulent Tea sets.",
+  "brand": "Bohemian Crystal",
+  "category": [
+    {
+      "$oid": "667cedd918a6a8ce834d4f25"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 130,
+  "images": [
+    "uploads/1720774385972-cropped_image.jpg",
+    "uploads/1720774385973-cropped_image.jpg",
+    "uploads/1720774385975-cropped_image.jpg"
+  ],
+  "status": true,
+  "__v": 0,
+  "originalPrice": 123,
+  "isDiscounted": false
+},
+{
+  "_id": {
+    "$oid": "6693f0614d6bb88e85c7f843"
+  },
+  "name": "Bull Sculpture",
+  "description": "A bull symbol represents stability and confidence. Place this bull sculpture on your corner table and bring the positive energies as well as a modern look to your surroundings. Bring home the traditionality and creativity of Indian artisans through these authentically handcrafted terracotta clay pieces. Set of 2.\n\nHandmade",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "material": "Terracotta",
+  "quantity": 85,
+  "images": [
+    "uploads/1720971361186-cropped_image.jpg",
+    "uploads/1720971361188-cropped_image.jpg",
+    "uploads/1720971361189-cropped_image.jpg",
+    "uploads\\1720971398031-Terracotta-Bull-Sculpture-Amalfiee_Ceramics-1678918456_1800x1800.webp"
+  ],
+  "status": true,
+  "__v": 1,
+  "originalPrice": 120,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "offerPercentage": 20,
+  "offerPrice": 96
+},
+{
+  "_id": {
+    "$oid": "6694d9056aecc73355239daf"
+  },
+  "name": "Green Leaf Bowls",
+  "description": "Elevate your dining experience with our exquisite Green Leaf Ceramic Bowl, a perfect blend of artistry and functionality. Crafted with meticulous attention to detail, this bowl features a vibrant green glaze that brings a touch of nature to your table. The intricate leaf pattern is hand-carved, giving each piece a unique, organic feel.\n\nMaterial: High-quality ceramic, ensuring durability and a smooth, glossy finish.\nDesign: Inspired by nature, the bowl's leaf motif is both elegant and versatile, making it ideal for both casual and formal settings.",
+  "brand": "Bohemian Crystal",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 11,
+  "images": [
+    "uploads/1721030917809-cropped_image.jpg",
+    "uploads\\1721030967396-HY00009887-1.webp"
+  ],
+  "status": true,
+  "__v": 1,
+  "originalPrice": 520,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "offerPercentage": 12,
+  "offerPrice": 457.6
+},
+{
+  "_id": {
+    "$oid": "66a88d9470365247ff303e93"
+  },
+  "name": "Mehran Blue bowls",
+  "description": "Description for this product.",
+  "brand": "Bohemian Crystal",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Ceramic",
+  "quantity": 84,
+  "images": [
+    "uploads/1722322324311-cropped_image.jpg",
+    "uploads/1722322324312-cropped_image.jpg"
+  ],
+  "status": true,
+  "__v": 0,
+  "originalPrice": 278,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "offerPercentage": 12,
+  "offerPrice": 244.64
+},
+{
+  "_id": {
+    "$oid": "66b99d3a0feb73139ef160a3"
+  },
+  "name": "Zeroh Bowls Terracotta",
+  "description": "Description for this product",
+  "brand": "Bohemian Crystal",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Terracotta",
+  "quantity": 120,
+  "images": [
+    "uploads/1723440442245-cropped_image.jpg"
+  ],
+  "status": true,
+  "__v": 0,
+  "originalPrice": 500,
+  "isDiscounted": false,
+  "offerId": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "offerPercentage": 12,
+  "offerPrice": 440
+},
+{
+  "_id": {
+    "$oid": "66c4523add0a6a9a2688eaf0"
+  },
+  "name": "Lemongrass Absolute Ceramic Dinner Set of 16 Pcs",
+  "description": "Inspired by the vivacious texture and scent of the lemon grass we have created this beautiful collection inculcated with the feel of relaxation and refreshment. The colors and texture of this collection will take you back to the woods, with shapes resembling the natural aesthetic. Accessories your dinning with this astonishing collection and enhance the elegance of your dinner table with these beautiful collection. \r\n\r\nHand made\r\nLead Free\r\nDish wash Safe\r\nScratch resistant\r\nMicrowave safe",
+  "brand": "Bohemian Crystal",
+  "category": [
+    {
+      "$oid": "667ce07253b5fab667148084"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 800,
+  "quantity": 11,
+  "images": [
+    "uploads/1724142138368-cropped_image.jpg",
+    "uploads/1724142138370-cropped_image.jpg",
+    "uploads/1724142138374-cropped_image.jpg"
+  ],
+  "status": true,
+  "offerId": null,
+  "isDiscounted": false,
+  "offerPrice": 0,
+  "__v": 0,
+  "offerPercentage": 10
+},
+{
+  "_id": {
+    "$oid": "66c452c2dd0a6a9a2688eaf6"
+  },
+  "name": "Couple Hugging Corner Piece Sculpture",
+  "description": "This Abstract designer showpiece artistically coveys the intimate bonding between a couple while also acting as a very practical corner piece. These adorably small and handmade sheep sculpture showpieces will complete the décor stylishly. Bring home the traditionality and creativity of Indian artisans through these authentically handcrafted terracotta clay pieces.\r\n\r\nHandmade\r\nLead Free\r\nScartch Resistant\r\nDishwash Safe\r\nMicrowave Safe",
+  "brand": "Black Swan",
+  "category": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "material": "Terracotta",
+  "originalPrice": 250,
+  "quantity": 10,
+  "images": [
+    "uploads/1724142274560-cropped_image.jpg",
+    "uploads/1724142274560-cropped_image.jpg",
+    "uploads/1724142274562-cropped_image.jpg"
+  ],
+  "status": true,
+  "offerId": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "isDiscounted": false,
+  "offerPrice": 200,
+  "__v": 0,
+  "offerPercentage": 20
+},
+{
+  "_id": {
+    "$oid": "66c45369dd0a6a9a2688eaff"
+  },
+  "name": "Paris Exclusive Ceramic Dinner Set of 8 Pcs",
+  "description": "Paris is a beautiful symphony of art and nature. This collection holds the roots of magnificent mandala art blended glamorously with olive green tones making this collection chic and classy. Beautifully handcrafted by our skilled craftsmen in India, the pattern design is usually created with nature-based elements, curved lines, and spirals.\r\n\r\nThese monochromatic pieces go perfectly with their complete set or can even mix and match.\r\n\r\nThis set comes with \r\n\r\nSet of 2- 2x Dinner Plates, 2x Quater Plates, 2x Soup Bowl, 2x Portion Bowl.\r\n\r\nSet For 2 people\r\nPackage weight 4.5kg\r\nCeramic Stoneware\r\nGlossy finish\r\nEco-friendly and Sustainable\r\nMicrowave and dishwasher safe\r\nDimensions\r\n\r\nDinner Plates- 10”x10”x1.5”\r\nQuarter Plates- 7”x7”x1”\r\nSoup Bowl- 4.5”x4.5”x2.75”\r\nPortion Bowl- 3.5”x3.5”x2.5\"\r\nNote- Each piece is handcrafted by our artisans which makes it unique and may show some difference in color, shape, and finish.",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667ce07253b5fab667148084"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 1200,
+  "quantity": 52,
+  "images": [
+    "uploads/1724142441773-cropped_image.jpg",
+    "uploads/1724142441773-cropped_image.jpg",
+    "uploads/1724142441774-cropped_image.jpg"
+  ],
+  "status": true,
+  "offerId": null,
+  "isDiscounted": false,
+  "offerPrice": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c453f1dd0a6a9a2688eb08"
+  },
+  "name": "Gulchandani Handmade Ceramic Tea Cups And Saucers",
+  "description": "This stylish round midnight blue tea and coffee cup and saucer adds a classic and authentic touch to your tableware collection. With its gorgeous glaze in snowy white, this piece can be used to serve your favourite beverage in style.\n\nHand made\nLead Free\nDish wash Safe\nScratch resistant\nMicrowave safe",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667cedd918a6a8ce834d4f25"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 880,
+  "quantity": 13,
+  "images": [
+    "uploads/1724142577954-cropped_image.jpg",
+    "uploads\\1724240539680-Gulchandani-Handmade-Ceramic-Tea-Cups-And-Saucers-Amalfiee_Ceramics-1678914307_1800x1800.webp",
+    "uploads\\1724240552253-Gulchandani-Handmade-Ceramic-Tea-Cups-And-Saucers-Amalfiee_Ceramics-1678914301_1800x1800.webp"
+  ],
+  "status": true,
+  "offerId": null,
+  "isDiscounted": false,
+  "offerPrice": 0,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66c454a6dd0a6a9a2688eb24"
+  },
+  "name": "Terracotta Premium Tribal Mask Home Decor",
+  "description": "For all art lovers out there, we bring this beautifully handcrafted décor sculpture. Made entirely from terracotta this artistic piece will enhance the aesthetics of your corner giving that modern décor vibe. Handmade with precision this crafty piece adds a spice to your decor.",
+  "brand": "Black Swan",
+  "category": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "material": "Terracotta",
+  "originalPrice": 560,
+  "quantity": 20,
+  "images": [
+    "uploads\\1724142891886-Terracotta-Premium-Tribal-Mask-Home-Decor-Amalfiee-Ceramics-1683317528_1800x1800.jpg",
+    "uploads\\1724142891887-Terracotta-Premium-Tribal-Mask-Home-Decor-Amalfiee-Ceramics-1683317534_1800x1800.jpg",
+    "uploads\\1724142891888-Terracotta-Premium-Tribal-Mask-Home-Decor-Amalfiee-Ceramics-1683317543_1800x1800.jpg"
+  ],
+  "status": true,
+  "offerId": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "isDiscounted": false,
+  "offerPrice": 448,
+  "__v": 1,
+  "offerPercentage": 20
+},
+{
+  "_id": {
+    "$oid": "66c4557cdd0a6a9a2688eb54"
+  },
+  "name": "Peppermint 8\" Ceramic Serving Bowl",
+  "description": "This assymetric handmade serving bowl with its authentic form and fresh colours brings a subtle touch of traditionality to your environment. It is perfectly suitable to serve your favourite home cooked snacks to your guests on a lovely evening or to decorate with beautiful flowers and decorate as a centre piece.\r\n\r\nHand made\r\nLead Free\r\nDish wash Safe\r\nScratch resistant\r\nMicrowave safe",
+  "brand": "Black Swan",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 630,
+  "quantity": 27,
+  "images": [
+    "uploads/1724142972856-cropped_image.jpg",
+    "uploads\\1724143441684-Peppermint-8--Ceramic-Serving-Bowl-Amalfiee_Ceramics-1678922207_1800x1800.webp"
+  ],
+  "status": true,
+  "offerId": {
+    "$oid": "66c6e6a8d66138801a476dad"
+  },
+  "isDiscounted": true,
+  "offerPrice": 598.5,
+  "__v": 1,
+  "offerPercentage": 5
+},
+{
+  "_id": {
+    "$oid": "66c6cdc192684ebfa71948f7"
+  },
+  "name": "Neelambar Floral Ceramic Tea Set of 3 pcs",
+  "description": "description",
+  "brand": "Ambiente",
+  "category": [
+    {
+      "$oid": "667ce07253b5fab667148084"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 1100,
+  "quantity": 20,
+  "images": [
+    "uploads/1724304833118-cropped_image.jpg",
+    "uploads/1724304833119-cropped_image.jpg",
+    "uploads/1724304833123-cropped_image.jpg"
+  ],
+  "status": true,
+  "offerId": {
+    "$oid": "66c6e6a8d66138801a476dad"
+  },
+  "isDiscounted": true,
+  "offerPrice": 1045,
+  "__v": 0,
+  "offerPercentage": 5
+},
+{
+  "_id": {
+    "$oid": "66c6ceecb1d53e3f0d510506"
+  },
+  "name": "Amalfe Leaf Bowl",
+  "description": "Description for this product",
+  "brand": "Black Swan",
+  "category": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "material": "Ceramic",
+  "originalPrice": 500,
+  "quantity": 11,
+  "images": [
+    "uploads/1724305132451-cropped_image.jpg",
+    "uploads/1724305132453-cropped_image.jpg",
+    "uploads/1724305132455-cropped_image.jpg"
+  ],
+  "status": true,
+  "offerId": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "isDiscounted": false,
+  "offerPrice": 440,
+  "__v": 0,
+  "offerPercentage": 12
+}]

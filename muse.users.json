@@ -1,0 +1,469 @@
+[{
+  "_id": {
+    "$oid": "667a8b3d8d6fece2978844ab"
+  },
+  "username": "Damian",
+  "email": "dami@gmail.com",
+  "phone": "7894561231",
+  "password": "$2b$10$hC8uItaS41u.D4ja9QFAD.71dR7sl0IMUagB.PUwD5aODYHgX.Jf.",
+  "blocked": false,
+  "__v": 1,
+  "address": [
+    {
+      "address": "45, Marine Drive",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400020",
+      "_id": {
+        "$oid": "6697ad4ff9bce756aead9e70"
+      },
+      "isDefault": true
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "667a8b6e8d6fece2978844b0"
+  },
+  "username": "Shikha",
+  "email": "shikha@gmail.com",
+  "phone": "9665565669",
+  "password": "$2b$10$PLXa/9GxYw3M3Acj3.AU3eUKgl/D0Czbx1KrgiVDgyZ3q47VEY.m.",
+  "blocked": false,
+  "__v": 1,
+  "address": [
+    {
+      "address": "Paduva House,Chirakkal,",
+      "city": "Kochi",
+      "state": "Kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66a9dc1d1f49023689aa01a2"
+      }
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "667a8b9e8d6fece2978844b5"
+  },
+  "username": "Arav",
+  "email": "arav@gmail.com",
+  "phone": "7894566122",
+  "password": "$2b$10$2DxP2K9.15haCY5Mo8mRvOhkPdOXsQdvPPz.O35gO9xS1WR7lZZvW",
+  "blocked": false,
+  "__v": 1,
+  "address": [
+    {
+      "address": "Paduva House,Chirakkal,",
+      "city": "Palluruthy",
+      "state": "Kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "669e8d49524a34dd145cd3d5"
+      }
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "667a8bcd8d6fece2978844ba"
+  },
+  "username": "Juan",
+  "email": "juan@gmail.com",
+  "phone": "9685741212",
+  "password": "$2b$10$Q4iIbE4YpsWNIUO2kTNVMejs1EmFqdamSIymB6wlxQenpEtJGk8QG",
+  "blocked": false,
+  "__v": 1,
+  "address": [
+    {
+      "address": "Kurishuparambil House ",
+      "city": "Mylammpadam ,Mannarkad ,Palakkad",
+      "state": "Kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66a9df001f49023689aa027a"
+      }
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "667aa81848b11eb8c9e82c34"
+  },
+  "username": "Nithin",
+  "email": "nithin@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$UhATS4BErvUQ8xlUigOL6evPv8h0ofDnZTTukTR5xy7uC5EyKI21C",
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667aaea71492bd29e374366f"
+  },
+  "username": "Ajil",
+  "email": "ajil@gm.com",
+  "phone": "9895397484",
+  "password": "$2b$10$vCtYKm2S5BMBLerB54Us2.MCA6UtGGhc5gGMZnN9vRhJJ4SMEN7V6",
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e38fb219b1b88527c4320"
+  },
+  "username": "Keerthy",
+  "email": "keerthy@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$bYjUYfWd1NjjkDgPX0.2AOkF2FanPcRXNyCfhdCGRzjDZahMNUXJC",
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e3ddc3a49c919adb3354a"
+  },
+  "username": "Shyam",
+  "email": "shyam@gmail.com",
+  "phone": "7894561231",
+  "password": "$2b$10$WV7ejkJzsMWVa2PF5aCmPOqz8qoPyasib4rOdnwv2sJ085pJeCItK",
+  "blocked": false,
+  "__v": 19,
+  "DOB": {
+    "$date": "1995-07-18T00:00:00.000Z"
+  },
+  "address": [
+    {
+      "address": " 12, MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": " 560001",
+      "_id": {
+        "$oid": "669756813346a84e72dc8a58"
+      },
+      "isDefault": false
+    },
+    {
+      "address": "Jal vayu Vihar",
+      "city": "kochi",
+      "state": "kerala",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669b34e15bf489ab0b1caf77"
+      }
+    },
+    {
+      "address": "Kinder Tower ,North lala land",
+      "city": "kochi",
+      "state": "kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "669b5001c50135e3b3e67736"
+      }
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "667fd2a15946a0c48ce07e75"
+  },
+  "username": "Athira Emmanuval",
+  "email": "athiravj1497@gmail.com",
+  "googleID": "110770578024728289520",
+  "blocked": false,
+  "__v": 1,
+  "DOB": null,
+  "phone": "9895397484",
+  "address": [
+    {
+      "address": "14th Avenue, Lavrdore",
+      "city": "chennai",
+      "state": "TamilNadu",
+      "isDefault": true,
+      "_id": {
+        "$oid": "669df5211da442e315c57d70"
+      }
+    }
+  ],
+  "isGoogleUser": false
+},
+{
+  "_id": {
+    "$oid": "668775c246ea2c8c4dbba936"
+  },
+  "username": "Maya",
+  "email": "maya@gmail.com",
+  "phone": "9685743625",
+  "password": "$2b$10$.aQOSGQpLyx8943kaG34cefYAle.pmWubMsOCHx2vbkHKbLKT0AQm",
+  "isGoogleUser": false,
+  "blocked": true,
+  "__v": 8,
+  "DOB": {
+    "$date": "1999-07-02T00:00:00.000Z"
+  },
+  "address": [
+    {
+      "address": "1234 Maple Street",
+      "city": "San Francisco",
+      "state": "California",
+      "pincode": "94103",
+      "_id": {
+        "$oid": "669755be3346a84e72dc89ea"
+      },
+      "isDefault": true
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668908d18f02c67ae2b1cc5c"
+  },
+  "username": "Jincy",
+  "email": "jin@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$uurHEEIjlDmrz2Z.rQ0gXOj4Wf4A5nVbTUx/gaFe382tA2.SAlT8G",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668909448f02c67ae2b1cc74"
+  },
+  "username": "Nidhi",
+  "email": "nidhi@gmail.com",
+  "phone": "9865741236",
+  "password": "$2b$10$PybWcWM5k.nce4QqjlOkVeYmiDMyHJPcRt5cLHMEg7jY0kTtr.Lqq",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66890c10e32073209d19363f"
+  },
+  "username": "Lithiya",
+  "email": "lithiya@gmail.com",
+  "phone": "7894566122",
+  "password": "$2b$10$NAn5g.nype4iGtN0VRjYUe2pTQZsEMtRALJMUigb5z7hLy30JbYSO",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66892897e4212240f6094510"
+  },
+  "username": "Nithya",
+  "email": "nithya@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$VayEigWpjFMYyXdFCvKkAu/lUxufh573zZY4Yh8uFvI0ZBIBJu/a6",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66892908e4212240f6094526"
+  },
+  "username": "Benoy",
+  "email": "benoy@gmail.com",
+  "phone": "9865321456",
+  "password": "$2b$10$TU7uxTU3Y35Y.pu.WymvbuDPSXYj/ORyTy4AzucEWejHWQgpq3QBG",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668b71e61f6bdc8f945969f0"
+  },
+  "username": "Hari",
+  "email": "hari@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$B/RRceUWReRisWPuL4ybouUdD4qV6sk1T/KWTiy.kiOcXpAVauFFS",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 6,
+  "DOB": {
+    "$date": "2005-06-17T00:00:00.000Z"
+  },
+  "address": [
+    {
+      "address": "SkyLine Building ,Manorama Lane",
+      "city": "Panampally Nagar ,Kochi",
+      "state": "kerala",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669b5308c50135e3b3e677b8"
+      }
+    },
+    {
+      "address": "xyz house,12th cross road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "isDefault": true,
+      "_id": {
+        "$oid": "669b53c9c50135e3b3e677e0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6694c8bcaf1a8a6a432fda93"
+  },
+  "username": "Sathya",
+  "email": "sathya@gm.com",
+  "phone": "9665565669",
+  "password": "$2b$10$UHfLlVn4zu9ePgEx8Gu90.aoL9KMZFLAjKPvJ72BQaJU7KqQGfQMe",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6694da926aecc73355239e39"
+  },
+  "username": "Arya A",
+  "email": "arya@gmail.com",
+  "phone": "9665565669",
+  "password": "$2b$10$37gEeW4L4aLG.9P5DAjOLejd8XjnZVxPG4ex5IOUBm2NJV1xrbETq",
+  "isGoogleUser": false,
+  "blocked": false,
+  "__v": 7,
+  "address": [
+    {
+      "address": "The Grand Estate, 1234 Opulence Boulevard",
+      "city": "Emerald City",
+      "state": "Kingdom of Fantasia",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669b55b4c50135e3b3e67859"
+      }
+    },
+    {
+      "address": "Crystal Palace 7890 Diamond Avenue",
+      "city": "Star City, Dreamland",
+      "state": "Realm of Wonders",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669b55f4c50135e3b3e67866"
+      }
+    },
+    {
+      "address": "xyz lane",
+      "city": "new city",
+      "state": "state",
+      "pincode": "12123",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669f3a5cc109436fbd409afc"
+      }
+    },
+    {
+      "address": "asdfg",
+      "city": "sdfgh",
+      "state": "fghj",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669f3ab0c109436fbd409b45"
+      }
+    },
+    {
+      "address": "asadsd",
+      "city": "wretew",
+      "state": "ewwqr",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669f3be0c109436fbd409c63"
+      }
+    },
+    {
+      "address": "new addr",
+      "city": "new city",
+      "state": "new sts",
+      "pincode": "698562",
+      "isDefault": false,
+      "_id": {
+        "$oid": "669f3c45c109436fbd409cba"
+      }
+    },
+    {
+      "address": "Chirakkar House,Manathavadi",
+      "city": "wayanad",
+      "state": "Kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66b0ba3171c322f4feed65fb"
+      }
+    }
+  ],
+  "DOB": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c6bfa59227bd0b5a4ad1fd"
+  },
+  "username": "Rithu",
+  "email": "rithu@gmail.com",
+  "phone": "9685741236",
+  "password": "$2b$10$MuWAesmdUb2/vVPGpNzZNeP/HeWAnf6qSm5tdg5I7le82yYmkOgQC",
+  "isGoogleUser": false,
+  "blocked": false,
+  "address": [
+    {
+      "address": "Jal vayu Vihar",
+      "city": "kochi",
+      "state": "Manipur",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66c6c5df2edce61e47031f5a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-22T04:33:41.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T05:00:15.167Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "66cc409863f0d3ab3f459ffd"
+  },
+  "username": "Riya",
+  "email": "riya@gmail.com",
+  "phone": "9895397484",
+  "password": "$2b$10$gX4/9.rq0ENMqQN.lCgfs.97KF8YifnBK/c8bWosI1cpPUdd32KFu",
+  "isGoogleUser": false,
+  "blocked": false,
+  "address": [
+    {
+      "address": "Valiyaparambil House",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "isDefault": true,
+      "_id": {
+        "$oid": "66cc4520cfd55a9f7dbc5fcd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-26T08:45:12.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-26T09:04:32.982Z"
+  },
+  "__v": 1
+}]

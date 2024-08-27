@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "66c478b5e75edc1faa4befed"
+  },
+  "offerName": "Big Bonansa",
+  "offerType": "product",
+  "discountPercentage": 10,
+  "startDate": {
+    "$date": "2024-08-21T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-30T00:00:00.000Z"
+  },
+  "applicableProducts": [
+    {
+      "$oid": "668f7155efbd5744e1f41a95"
+    },
+    {
+      "$oid": "668f7364efbd5744e1f41af3"
+    }
+  ],
+  "applicableCategories": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-20T11:06:29.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T10:46:29.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c47918e75edc1faa4bf029"
+  },
+  "offerName": "Double deal",
+  "offerType": "category",
+  "discountPercentage": 20,
+  "startDate": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-29T00:00:00.000Z"
+  },
+  "applicableProducts": [],
+  "applicableCategories": [
+    {
+      "$oid": "667cecaf2ee38eae0ec20750"
+    }
+  ],
+  "isActive": false,
+  "createdAt": {
+    "$date": "2024-08-20T11:08:08.274Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T07:17:06.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6e61ad66138801a476d54"
+  },
+  "offerName": "Mini Deal",
+  "offerType": "category",
+  "discountPercentage": 12,
+  "startDate": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-08-31T00:00:00.000Z"
+  },
+  "applicableProducts": [],
+  "applicableCategories": [
+    {
+      "$oid": "667e46cf2b2db45229411ff9"
+    }
+  ],
+  "isActive": false,
+  "createdAt": {
+    "$date": "2024-08-22T07:17:46.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T07:19:14.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6e6a8d66138801a476dad"
+  },
+  "offerName": "Smart30",
+  "offerType": "product",
+  "discountPercentage": 5,
+  "startDate": {
+    "$date": "2024-08-23T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-09-07T00:00:00.000Z"
+  },
+  "applicableProducts": [
+    {
+      "$oid": "66c4557cdd0a6a9a2688eb54"
+    },
+    {
+      "$oid": "66c6cdc192684ebfa71948f7"
+    }
+  ],
+  "applicableCategories": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-08-22T07:20:08.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T07:20:08.861Z"
+  },
+  "__v": 0
+}]

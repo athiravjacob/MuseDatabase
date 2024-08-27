@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "66ab5197ffa27970efd35c38"
+  },
+  "code": "FIRST100",
+  "discountType": "amount",
+  "discountAmount": 100,
+  "discountPercentage": null,
+  "expiresAt": {
+    "$date": "2024-08-31T00:00:00.000Z"
+  },
+  "useageLimit": 1,
+  "used": 0,
+  "max_discount": 100,
+  "isActive": true,
+  "description": "RS.100 off on your first order",
+  "createdAt": {
+    "$date": "2024-08-01T09:12:55.035Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T09:12:55.035Z"
+  },
+  "__v": 0,
+  "min_purchase_amount": "499"
+},
+{
+  "_id": {
+    "$oid": "66ab538fa3a0a0956edbca92"
+  },
+  "code": "SUMMER15",
+  "discountType": "percentage",
+  "discountAmount": null,
+  "discountPercentage": 15,
+  "expiresAt": {
+    "$date": "2024-08-31T00:00:00.000Z"
+  },
+  "useageLimit": 1,
+  "used": 0,
+  "max_discount": 300,
+  "isActive": true,
+  "description": "Get 15% off on your summer purchases!",
+  "createdAt": {
+    "$date": "2024-08-01T09:21:19.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T09:21:19.235Z"
+  },
+  "__v": 0,
+  "min_purchase_amount": "1000"
+},
+{
+  "_id": {
+    "$oid": "66ab5566ba3f482d7707f9a3"
+  },
+  "code": "SAVE50",
+  "discountType": "amount",
+  "discountAmount": 50,
+  "discountPercentage": null,
+  "expiresAt": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "useageLimit": 20,
+  "used": 0,
+  "min_purchase_amount": 200,
+  "max_discount": 5,
+  "isActive": true,
+  "description": "Save $50 on purchases over $200.",
+  "createdAt": {
+    "$date": "2024-08-01T09:29:10.294Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-01T09:29:10.294Z"
+  },
+  "__v": 0
+}]
